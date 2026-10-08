@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Tools
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/
